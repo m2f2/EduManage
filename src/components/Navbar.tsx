@@ -23,7 +23,7 @@ const Navbar = () => {
           <div className="absolute -top-3 -right-3 w-5 h-5 flex items-center justify-center bg-purple-500 text-white rounded-full text-xs">1</div>
         </div>
         <div className="flex flex-col ">
-            <span className="text-xs leading-3 font-medium">Mostafa Moawed</span>
+            <span className="text-xs leading-3 font-medium">userName</span>
             <span className="text-[10px] text-right text-gray-500">Admin</span>
         </div>
         <Image src="/avatar.png" width={36} height={36} alt="user image" className="rounded-full"/>
